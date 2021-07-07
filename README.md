@@ -1,6 +1,7 @@
 ### Hi, I'm Kit Walker!
 
 My website is [kitwalker.co.uk](https://kitwalker.co.uk)
+- 💼  I'm an Undegraduate Software Engineer at Arm
 - 🔭  I’m currently working on TurnUp2021, UoB Theatre and getting a degree at UoB
 - 🌱  I’m currently learning Django
 - 🌈  he/him :)
